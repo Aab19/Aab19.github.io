@@ -1,0 +1,26 @@
+<svg width="230" height="230" viewBox="0 0 230 230" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group 2.1</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(3105 315)">
+<g id="Group 2.1">
+<g id="Aab">
+<g id="Union">
+<use xlink:href="#path0_fill" transform="translate(-3068.1 -279.75)"/>
+</g>
+</g>
+<g id="Rectangle">
+<mask id="mask0_outline_ins">
+<use xlink:href="#path1_fill" fill="white" transform="translate(-3105 -315)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path2_stroke_2x" transform="translate(-3105 -315)"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 48.1233 106.122L 25.7476 150.34L 0 150.34L 78.5544 0L 121.666 80.6941L 121.641 80.6941L 135.037 106.122L 48.1233 106.122ZM 78.5544 45.9863L 61.5466 79.5916L 96.791 79.5916L 78.5544 45.9863ZM 119.749 127.347L 146.1 127.347L 158.165 150.34L 131.681 150.34L 119.749 127.347Z"/>
+<path id="path1_fill" d="M 0 0L 230 0L 230 230L 0 230L 0 0Z"/>
+<path id="path2_stroke_2x" d="M 0 0L 0 -10L -10 -10L -10 0L 0 0ZM 230 0L 240 0L 240 -10L 230 -10L 230 0ZM 230 230L 230 240L 240 240L 240 230L 230 230ZM 0 230L -10 230L -10 240L 0 240L 0 230ZM 0 10L 230 10L 230 -10L 0 -10L 0 10ZM 220 0L 220 230L 240 230L 240 0L 220 0ZM 230 220L 0 220L 0 240L 230 240L 230 220ZM 10 230L 10 0L -10 0L -10 230L 10 230Z"/>
+</defs>
+</svg>

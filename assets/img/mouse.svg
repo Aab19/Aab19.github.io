@@ -1,0 +1,24 @@
+<svg width="22" height="30" viewBox="0 0 22 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group 3</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(3105 -33)">
+<g id="Group 3">
+<g id="Rectangle">
+<mask id="mask0_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="translate(-3105 33)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="translate(-3105 33)" fill="#282828"/>
+</g>
+</g>
+<g id="Line">
+<use xlink:href="#path2_stroke" transform="matrix(6.12323e-17 1 -1 6.12323e-17 -3095 38)" fill="#282828"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 11C 0 4.92487 4.92487 0 11 0C 17.0751 0 22 4.92487 22 11L 22 19C 22 25.0751 17.0751 30 11 30C 4.92487 30 0 25.0751 0 19L 0 11Z"/>
+<path id="path1_stroke_2x" d="M 20 11L 20 19L 24 19L 24 11L 20 11ZM 2 19L 2 11L -2 11L -2 19L 2 19ZM 11 28C 6.02944 28 2 23.9706 2 19L -2 19C -2 26.1797 3.8203 32 11 32L 11 28ZM 20 19C 20 23.9706 15.9706 28 11 28L 11 32C 18.1797 32 24 26.1797 24 19L 20 19ZM 11 2C 15.9706 2 20 6.02944 20 11L 24 11C 24 3.8203 18.1797 -2 11 -2L 11 2ZM 11 -2C 3.8203 -2 -2 3.8203 -2 11L 2 11C 2 6.02944 6.02944 2 11 2L 11 -2Z"/>
+<path id="path2_stroke" d="M 0 0L 5 0L 5 -2L 0 -2L 0 0Z"/>
+</defs>
+</svg>
