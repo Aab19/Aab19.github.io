@@ -1,17 +1,5 @@
-# Ignore Sass' cache
-**/*/.sass-cache
-
-# Ignore Bower components
-/bower_components
-
-# Ignore Node Modules
-/node_modules
-
 # Ignore vscode
 /.vscode
 
 # Ignore DS DSStore
 .DS_Store
-
-/source
-/gulp
