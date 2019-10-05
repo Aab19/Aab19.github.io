@@ -515,9 +515,9 @@ p { margin: 0 0 10px; }
 		background-size: cover;
 	}
 
-	#hero .owl-slide-1 { background-image: url('https://via.placeholder.com/1920x1280'); }
+	#hero .owl-slide-1 { background-image: url('../img/home01.jpg'); }
 
-	#hero .owl-slide-2 { background-image: url('https://via.placeholder.com/1920x1280'); }
+	#hero .owl-slide-2 { background-image: url('../img/home02.jpg'); }
 
 	#hero div:not(.owl-controls) { height: 100%; }
 
@@ -591,7 +591,7 @@ p { margin: 0 0 10px; }
 #hero-teams,
 #hero-career,
 #hero-contact {
-	background: url('https://via.placeholder.com/1920x1350') no-repeat;
+	background: url('../img/bg-about-hero.jpg') no-repeat;
 	background-position: center top;
 	background-size: cover;
 	padding: 80px 0;
@@ -612,7 +612,7 @@ p { margin: 0 0 10px; }
 /* 3.1.4 Section Hero Single Work */
 
 #hero-single-work {
-	background: url('https://via.placeholder.com/2880x1800') no-repeat center center;
+	background: url('../img/bg-sg-work.jpg') no-repeat center center;
 	background-size: cover;
 	height: 100vh;
 }
@@ -711,7 +711,7 @@ p { margin: 0 0 10px; }
 }
 
 	#about .about-background {
-		background-image: url('https://via.placeholder.com/960x600');
+		background-image: url('../img/about-01.jpg');
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: cover;
@@ -775,7 +775,7 @@ p { margin: 0 0 10px; }
 		#about-info .about-info-detail p { margin-bottom: 70px; }
 
 		#about-info .about-video-bg {
-			background: url('https://via.placeholder.com/960x960') no-repeat;
+			background: url('../img/abt01.jpg') no-repeat;
 			background-position: center center;
 			background-size: cover;
 			height: 750px;
@@ -1008,7 +1008,7 @@ p { margin: 0 0 10px; }
 /* 3.5 Section Join */
 
 #join {
-	background: url('https://via.placeholder.com/1920x1350') no-repeat;
+	background: url('../img/bg-join.jpg') no-repeat;
 	background-position: center center;
 	background-size: cover;
 }
@@ -1102,7 +1102,7 @@ p { margin: 0 0 10px; }
 /* 3.7 Section Testimonials */
 
 #testimonials {
-	background: url('https://via.placeholder.com/1920x1350') no-repeat center center;
+	background: url('../img/bg-testimonial.jpg') no-repeat center center;
 	background-size: cover;
 	color: #fff;
 	position: relative;
@@ -1361,7 +1361,7 @@ p { margin: 0 0 10px; }
 /* 3.9 Section Contact */
 
 #contact {
-	background: url('https://via.placeholder.com/1920x1350') no-repeat center center;
+	background: url('../img/bg-contact.jpg') no-repeat center center;
 	background-size: cover;
 }
 
@@ -1614,7 +1614,7 @@ p { margin: 0 0 10px; }
 /* 3.12 Section Presentation */
 
 #presentation {
-	background: url('https://via.placeholder.com/1920x1280') no-repeat;
+	background: url('../img/bg-presentation.jpg') no-repeat;
 	background-position: center center;
 	background-size: cover;
 }
@@ -1701,7 +1701,7 @@ p { margin: 0 0 10px; }
 	}
 
 	#why-us .about-video-bg {
-		background: url('https://via.placeholder.com/960x960') no-repeat;
+		background: url('../img/abt01.jpg') no-repeat;
 		background-position: center center;
 		background-size: cover;
 		height: 750px;
@@ -1783,7 +1783,7 @@ p { margin: 0 0 10px; }
 }
 
 	#work-detail .work-content > .work-image {
-		background: url('https://via.placeholder.com/960x960') no-repeat center center;
+		background: url('../img/port01.jpg') no-repeat center center;
 		background-size: cover;
 		height: 600px;
 		margin-bottom: 50px;
@@ -2039,7 +2039,7 @@ p { margin: 0 0 10px; }
 #career .col-md-4 > .row { margin: 0; }
 
 	#career .office-one {
-		background: url('https://via.placeholder.com/686x457') no-repeat center center;
+		background: url('../img/bg-sidebar.jpg') no-repeat center center;
 		background-size: cover;
 		padding: 35px;
 	}

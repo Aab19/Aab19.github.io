@@ -95,11 +95,7 @@ $( document ).ready( function() {
 
 	// Change Owl Dots with image
 	$( '.owl-testimonials > .owl-dots > button > span' ).each( function( key, n ) {
-		//- Uncomment code below to change image dots with your image in folder assets
-		// $( n ).replaceWith( `<img src=\"assets/img/client0${ key + 1 }.png\"/ >` )
-
-		//- This is just dummy image
-		$( n ).replaceWith( `<img src=\"https://via.placeholder.com/150x100\"/ >` )
+		$( n ).replaceWith( `<img src=\"assets/img/client0${ key + 1 }.png\"/ >` )
 	} ) ;
 
 	// Only Scale Image when hovering the selected image
